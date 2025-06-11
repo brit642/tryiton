@@ -20,7 +20,7 @@ st.set_page_config(
 # gcloud auth application-default login
 #
 # Your Project ID is set below.
-PROJECT_ID = "fonsi-gcp-demos"
+PROJECT_ID = "YOUR-PROJECT"
 LOCATION = "us-central1"
 
 # Initialize Vertex AI SDK
